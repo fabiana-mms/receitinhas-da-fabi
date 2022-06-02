@@ -1,0 +1,40 @@
+.bg-navbar, .bg-footer {
+    background-color: #FBEFF2;
+}
+
+.card-largura {
+    max-width: 18rem;       /*Foi tracado pelo style:width: 18rem; que vem do Bootstrap*/
+}
+
+.imagem-carrosel-um {
+    object-fit: cover;
+    object-position: 0 80%;
+    height: 400px;
+}
+
+.imagem-carrosel-dois {
+    object-fit: cover;
+    height: 400px;
+}
+
+.fonte-titulo {
+    font-family: 'Satisfy', cursive;
+}
+
+.fonte-subtitulo {
+    font-family: 'Patrick Hand', cursive;
+}
+
+.cor-especial {
+    color: darkred;
+}
+
+.botao-cor-especial {
+    background-color: darkred;
+    color: white;
+}
+
+.borda-cor-especial {
+    border-color: darkred;
+}
+
