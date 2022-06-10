@@ -9,13 +9,13 @@ Praticar HTML, CSS e começar a entender o Bootstrap.
 
 ## :computer: Tecnologias 
 
-* [HTML](#html)
-* [CSS](#css)
+* HTML
+* CSS
 * [Bootstrap](https://getbootstrap.com/)
 
 ## :heavy_check_mark: Componentes do Bootstrap utilizados
 
-* [Cards](#)
-* [Modal](#)
-* [Navbar](#)
-* [Carousel](#)
+* Cards
+* Modal
+* Navbar
+* Carousel
